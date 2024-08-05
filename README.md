@@ -1,4 +1,4 @@
-Prakriti
+## Prakriti
 
 Prakriti is an online platform dedicated to promoting eco-friendly, handcrafted home decor products that embody the beauty of traditional craftsmanship and sustainable living. The project aims to connect consumers with artisans who create unique, high-quality items that bring warmth, elegance, and cultural richness into modern homes.
 
